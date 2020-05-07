@@ -35,18 +35,17 @@ https://github.com/shivanshuman021/HandSigns-Indentifier/tree/master/datasets
 
 <div class="row">
   <div class="column">
-    <img src="images/ident0.png" alt="zero" style="width:100%">
+    <img src="images/ident0.jpeg" alt="zero" >
   </div>
   <div class="column">
-    <img src="images/ident3.png" alt="three" style="width:100%">
+    <img src="images/ident3.jpeg" alt="three">
   </div>
   </div>
   
-  <div class="row">
+<div class="row">
   <div class="column">
-    <img src="images/ident4.png" alt="four" style="width:100%">
+    <img src="images/ident4.jpeg" alt="four">
   </div>
-  <div class="coloum">
-    <img src="images/ident2.png alt="two" style="width:100%">
+  <div class="coloum"><img src="images/ident2.jpeg alt="two"></div>
 </div>
 
