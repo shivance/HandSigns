@@ -34,10 +34,10 @@ https://github.com/shivanshuman021/HandSigns-Indentifier/tree/master/datasets
 <h3><B>
 <div class="row">
   <div class="column">
-    <img src="images/ident0.jpeg" alt="zero" style="width:500px;height:300px;">
+    <img src="images/ident0.jpeg" alt="zero" style="width:400px;height:250px;">
   </div>
   <div class="column">
-    <img src="images/ident3.jpeg" alt="three" style="width:500px;height:300px;">
+    <img src="images/ident3.jpeg" alt="three" style="width:400px;height:250px;">
   </div>
 </div>
   
@@ -58,7 +58,7 @@ https://github.com/shivanshuman021/HandSigns-Indentifier/tree/master/datasets
 
 <p><I> Navigate to the cloned repository and in a terminal run:</I></p>
 <B>$ python main.py</B>
-<p><I> Camera window named <B>test</B> will be loaded . Press <B>SPACE</B> to capture snapshot !</p>
+<p><I> Camera window named <B>test</B> will be loaded . Press <B>SPACE</B> to capture snapshot !</I></p>
 <p>Wanna quit ! Hit <B>ESCAPE</B><p>
   
  
