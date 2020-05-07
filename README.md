@@ -1,4 +1,4 @@
-# Count Your Fingers 
+# Count Your Fingers And look for result in Terminal :D
 
 <h3><I>A Classifier that implemnts Convolutional Neural Networks (CNNs) to count the number of fingers
 Trained using SIGNS dataset is a collection of 6 signs representing numbers from 0 to 5.</I></h3>
