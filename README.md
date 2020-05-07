@@ -55,7 +55,7 @@ https://github.com/shivanshuman021/HandSigns-Indentifier/tree/master/datasets
 
 <h3> Try yourself !</h3>
 <center><p style="font-size:250px">&#128540;</p></center>
-<h4><I>In a Terminal / Command Propmt Type </I></h4>
+<h4><I>In a Terminal / Command Prompt Type </I></h4>
     $ git clone "https://github.com/shivanshuman021/HandSigns-Indentifier.git"
 
 <h4><I> Navigate to the cloned repository in a terminal run:</I></h4>
