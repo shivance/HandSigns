@@ -3,7 +3,7 @@
 <h3><I>A Classifier that implemnts Convolutional Neural Networks (CNNs) to count the number of fingers
 Trained using SIGNS dataset is a collection of 6 signs representing numbers from 0 to 5.</I></h3>
 
-<center><h4><I>:Gist:</I></h4></center>
+
 <img src="signs.png" style="width:800px;height:300px;">
 
 
@@ -20,10 +20,12 @@ https://github.com/shivanshuman021/HandSigns-Indentifier/tree/master/datasets
 </div>
 
 <div>
-  <center><h3><B>Dependencies</B></h3></center>
+  <center><h3><B>Dependencies</B></h3>
 <h4> Python 3 </h4>
   <h4> TensorFlow 2.2.1</h4>
+  <h4> Keras </h4>
   <h4> OpenCV</h4>
+    </center>
 </div>
 
 <div>
@@ -33,19 +35,24 @@ https://github.com/shivanshuman021/HandSigns-Indentifier/tree/master/datasets
 </center>
 </div>
 
+
+
+
+
+<h3><B>
 <div class="row">
   <div class="column">
-    <img src="images/ident0.jpeg" alt="zero" >
+    <img src="images/ident0.jpeg" alt="zero" style="width:514px;height:205px;">
   </div>
   <div class="column">
-    <img src="images/ident3.jpeg" alt="three">
+    <img src="images/ident3.jpeg" alt="three" style="width:514px;height:205px;">
   </div>
   </div>
   
 <div class="row">
   <div class="column">
-    <img src="images/ident4.jpeg" alt="four">
+    <img src="images/ident4.jpeg" alt="four" style="width:514px;height:205px;">
   </div>
-  <div class="coloum"><img src="images/ident2.jpeg alt="two"></div>
+  <div class="coloum"><img src="images/ident2.jpeg" alt="two" style="width:514px;height:205px;"></div>
 </div>
 
