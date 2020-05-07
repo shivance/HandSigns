@@ -41,7 +41,7 @@ https://github.com/shivanshuman021/HandSigns-Indentifier/tree/master/datasets
     Its 3 fingers right ! 
     <img src="images/ident3.jpeg" alt="three" style="width:600px;height:375px;">
 <center>
-  </h3></B>
+  </B></h3>
 
 
   <h2><U><B>Dependencies</B></U></h2>
