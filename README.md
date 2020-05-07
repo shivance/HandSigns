@@ -19,6 +19,7 @@ https://github.com/shivanshuman021/HandSigns-Indentifier/tree/master/datasets
 <center><img src="images/Convolution_schematic.gif" style="width:500px;height:300px;"></center>
 </div>
 
+<I>Watch Me testing it !</I>
 <div>
 <center>
 <video width="620" height="440" src="images/test.mp4" type="video/mp4" controls>
@@ -29,18 +30,16 @@ https://github.com/shivanshuman021/HandSigns-Indentifier/tree/master/datasets
 
 
 
-
+<I>Here are some more tests ! </I>
 
 <h3><B>
-<div class="row">
-  <div class="column">
-    <img src="images/ident0.jpeg" alt="zero" style="width:400px;height:250px;">
-  </div>
-  <div class="column">
-    <img src="images/ident3.jpeg" alt="three" style="width:400px;height:250px;">
-  </div>
-</div>
-  
+<center>
+    <img src="images/ident0.jpeg" alt="zero" style="width:600px;height:375px;">
+<center>
+<center>  
+    <img src="images/ident3.jpeg" alt="three" style="width:600px;height:375px;">
+<center>
+  </h3></B>
 
 
   <h2><U><B>Dependencies</B></U></h2>
@@ -50,16 +49,17 @@ https://github.com/shivanshuman021/HandSigns-Indentifier/tree/master/datasets
   <h4><I>4. OpenCV<I></h4> </I>   <I>Visit https://pypi.org/project/opencv-python</I>
 
 
-
-<h2>In a Terminal / Command Propmt Type -</h2>
+<h3> Try yourself !</h3>
 <center><p style="font-size:250px">&#128540;</p></center>
+<h2>In a Terminal / Command Propmt Type -</h2>
+
 
 <B>$ git clone </B>
 
 <I> Navigate to the cloned repository in a terminal run:</I>
 <B>$ python main.py</B>
 <I> Camera window named <B>test</B> will be loaded . Press <B>SPACE</B> to capture snapshot !</I>
-<center>Press <B>ESCAPE</B> to exit</center>
+<center>Press <B>ESC Key</B> to exit</center>
   
  
  
