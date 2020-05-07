@@ -16,7 +16,7 @@ https://github.com/shivanshuman021/HandSigns-Indentifier/tree/master/datasets
 
 <div>
 <center><h3>Convolution Operation : A Review</h3></center>
-<img src="images/Convolution_schematic.gif" style="width:500px;height:300px;">
+<center><img src="images/Convolution_schematic.gif" style="width:500px;height:300px;"></center>
 </div>
 
 <div>
@@ -34,22 +34,22 @@ https://github.com/shivanshuman021/HandSigns-Indentifier/tree/master/datasets
 <h3><B>
 <div class="row">
   <div class="column">
-    <img src="images/ident0.jpeg" alt="zero">
+    <img src="images/ident0.jpeg" alt="zero" style="width:500px;height:300px;">
   </div>
   <div class="column">
-    <img src="images/ident3.jpeg" alt="three">
+    <img src="images/ident3.jpeg" alt="three" style="width:500px;height:300px;">
   </div>
 </div>
   
 
-<p>
+
   <h2><B>Dependencies</B></h2>
 <h4> Python 3 </h4>
     <h4><I> TensorFlow 2.2.1</I></h4>  <I>https://www.tensorflow.org/install </I>
     <h4><I> Keras </I></h4>
-  <h4><I> OpenCV<I></h4> <I>https://pypi.org/project/opencv-python</I>
-    
-</p>
+  <h4><I> OpenCV<I></h4> </I>   <I>https://pypi.org/project/opencv-python</I>
+<p>
+
 
 <h2>FIRE UP A TERMINAL AND TEST YOURSELF !!!</h2>
 <p style="font-size:250px"><center>&#128540;<center></p>
