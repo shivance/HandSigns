@@ -19,7 +19,7 @@ https://github.com/shivanshuman021/HandSigns-Indentifier/tree/master/datasets
 <center><img src="images/Convolution_schematic.gif" style="width:500px;height:300px;"></center>
 </div>
 
-<I>Watch Me testing it !</I>
+<I>Watch Me testing it ! See count in Terminal on left side</I>
 <div>
 <center>
 <video width="620" height="440" src="images/test.mp4" type="video/mp4" controls>
@@ -36,7 +36,9 @@ https://github.com/shivanshuman021/HandSigns-Indentifier/tree/master/datasets
 <center>
     <img src="images/ident0.jpeg" alt="zero" style="width:600px;height:375px;">
 <center>
-<center>  
+    
+<center>
+    Its 3 fingers right ! 
     <img src="images/ident3.jpeg" alt="three" style="width:600px;height:375px;">
 <center>
   </h3></B>
@@ -54,7 +56,7 @@ https://github.com/shivanshuman021/HandSigns-Indentifier/tree/master/datasets
 <h2>In a Terminal / Command Propmt Type -</h2>
 
 
-<B>$ git clone </B>
+<B>$ git clone https://github.com/shivanshuman021/HandSigns-Indentifier.git </B>
 
 <I> Navigate to the cloned repository in a terminal run:</I>
 <B>$ python main.py</B>
