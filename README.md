@@ -43,23 +43,23 @@ https://github.com/shivanshuman021/HandSigns-Indentifier/tree/master/datasets
   
 
 
-  <h2><B>Dependencies</B></h2>
-<h4> Python 3 </h4>
-    <h4><I> TensorFlow 2.2.1</I></h4>  <I>https://www.tensorflow.org/install </I>
-    <h4><I> Keras </I></h4>
-  <h4><I> OpenCV<I></h4> </I>   <I>https://pypi.org/project/opencv-python</I>
-<p>
+  <h2><U><B>Dependencies</B></U></h2>
+<h4> 1. Python 3 </h4>
+    <h4><I>2. TensorFlow 2.2.1</I></h4>  <I>Visit https://www.tensorflow.org/install </I>
+    <h4><I>3. Keras </I></h4>
+  <h4><I>4. OpenCV<I></h4> </I>   <I>Visit https://pypi.org/project/opencv-python</I>
 
 
-<h2>FIRE UP A TERMINAL AND TEST YOURSELF !!!</h2>
-<p style="font-size:250px"><center>&#128540;<center></p>
+
+<h2>In a Terminal / Command Propmt Type -</h2>
+<center><p style="font-size:250px">&#128540;</p></center>
 
 <B>$ git clone </B>
 
-<p><I> Navigate to the cloned repository and in a terminal run:</I></p>
+<I> Navigate to the cloned repository in a terminal run:</I>
 <B>$ python main.py</B>
-<p><I> Camera window named <B>test</B> will be loaded . Press <B>SPACE</B> to capture snapshot !</I></p>
-<p>Wanna quit ! Hit <B>ESCAPE</B><p>
+<I> Camera window named <B>test</B> will be loaded . Press <B>SPACE</B> to capture snapshot !</I>
+<center>Press <B>ESCAPE</B> to exit</center>
   
  
  
