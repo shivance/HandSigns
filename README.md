@@ -35,12 +35,12 @@ https://github.com/shivanshuman021/HandSigns-Indentifier/tree/master/datasets
 <h3><B>
 <center>
     <img src="images/ident0.jpeg" alt="zero" style="width:600px;height:375px;">
-<center>
+</center>
     
 <center>
     Its 3 fingers right ! 
     <img src="images/ident3.jpeg" alt="three" style="width:600px;height:375px;">
-<center>
+</center>
   </B></h3>
 
 
