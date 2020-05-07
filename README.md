@@ -20,12 +20,12 @@ https://github.com/shivanshuman021/HandSigns-Indentifier/tree/master/datasets
 </div>
 
 <div>
-  <center><h3><B>Dependencies</B></h3>
+  <h3><B>Dependencies</B></h3>
 <h4> Python 3 </h4>
-  <h4> TensorFlow 2.2.1</h4>
-  <h4> Keras </h4>
-  <h4> OpenCV</h4>
-    </center>
+    <h4><I> TensorFlow 2.2.1</I></h4>  <I>https://www.tensorflow.org/install </I>
+    <h4><I> Keras </I></h4>
+  <h4><I> OpenCV<I></h4> </I>https://pypi.org/project/opencv-python/
+    
 </div>
 
 <div>
@@ -35,17 +35,20 @@ https://github.com/shivanshuman021/HandSigns-Indentifier/tree/master/datasets
 </center>
 </div>
 
-
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 
 
 
 <h3><B>
 <div class="row">
   <div class="column">
-    <img src="images/ident0.jpeg" alt="zero" style="width:514px;height:205px;">
+    <img src="images/ident0.jpeg" alt="zero" style="width:200px;height:150px;">
   </div>
   <div class="column">
-    <img src="images/ident3.jpeg" alt="three" style="width:514px;height:205px;">
+    <img src="images/ident3.jpeg" alt="three" style="width:200px;height:150px;">
   </div>
   </div>
   
