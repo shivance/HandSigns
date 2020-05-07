@@ -24,7 +24,7 @@ https://github.com/shivanshuman021/HandSigns-Indentifier/tree/master/datasets
 <h4> Python 3 </h4>
     <h4><I> TensorFlow 2.2.1</I></h4>  <I>https://www.tensorflow.org/install </I>
     <h4><I> Keras </I></h4>
-  <h4><I> OpenCV<I></h4> </I>https://pypi.org/project/opencv-python/
+  <h4><I> OpenCV<I></h4> </I>https://pypi.org/project/opencv-python/</I>
     
 </div>
 
@@ -35,27 +35,35 @@ https://github.com/shivanshuman021/HandSigns-Indentifier/tree/master/datasets
 </center>
 </div>
 
-<br></br>
-<br></br>
-<br></br>
-<br></br>
+<br>.</br>
+<br>.</br>
+<br>.</br>
+<br>.</br>
 
 
 
 <h3><B>
 <div class="row">
   <div class="column">
-    <img src="images/ident0.jpeg" alt="zero" style="width:200px;height:150px;">
+    <img src="images/ident0.jpeg" alt="zero">
   </div>
   <div class="column">
-    <img src="images/ident3.jpeg" alt="three" style="width:200px;height:150px;">
+    <img src="images/ident3.jpeg" alt="three">
   </div>
-  </div>
-  
-<div class="row">
-  <div class="column">
-    <img src="images/ident4.jpeg" alt="four" style="width:514px;height:205px;">
-  </div>
-  <div class="coloum"><img src="images/ident2.jpeg" alt="two" style="width:514px;height:205px;"></div>
 </div>
+  
+
+<br>.
+</br>
+<br>.
+</br>
+<br>.
+</br>
+<br>.
+</br>
+
+<h2>TesT Yourself</h2>
+<p style="font-size:250px"><center>&#128540;<center></p>
+  
+
 
