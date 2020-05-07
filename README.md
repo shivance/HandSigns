@@ -15,3 +15,9 @@ https://github.com/shivanshuman021/HandSigns-Indentifier/tree/master/datasets
 
 
 <img src="images/Convolution_schematic.gif" style="width:500px;height:300px;">
+
+
+<center>
+<video width="620" height="440" src="images/test.mp4" type="video/mp4" controls>
+</video>
+</center>
