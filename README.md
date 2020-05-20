@@ -3,6 +3,7 @@
 <h3><I>A Classifier that implemnts Convolutional Neural Networks (CNNs) to count the number of fingers
 Trained using SIGNS dataset is a collection of 6 signs representing numbers from 0 to 5.</I></h3>
 
+LinkedIn:
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="anshuman-mishra-89b014195"><a class="LI-simple-link" href='https://in.linkedin.com/in/anshuman-mishra-89b014195?trk=profile-badge'>Anshuman Mishra</a></div>
 <img src="signs.png" style="width:800px;height:300px;">
 
