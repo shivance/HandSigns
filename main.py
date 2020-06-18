@@ -35,8 +35,8 @@ while True:
 
         img = plt.imread(img_name)
 
-        imgp = cv2.resize(img,(64,64))
-        imgp = imgp.reshape(1,64,64,3)
+        imgp = cv2.resize(img,(100,100))
+        imgp = imgp.reshape(1,100,100,3)
         imgp1 = np.array(imgp,dtype='float64')
         print(model.predict(imgp1))
         print("\n\n\n"+str(np.argmax(model.predict(imgp1)))+"\n\n\n")
